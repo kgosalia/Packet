@@ -1,0 +1,42 @@
+about:
+  name: Kushal Gosalia
+  location: "Santa Clara, CA"
+  timezone: UTC-07
+  hobbies:
+    # can't be related to your job
+    - "Travel, Music (playing guitar), Soccer"
+  favorite_resources:
+    - "Leetcode"
+    - "Stack Overflow"
+    - "Medium"
+# be a mentor
+bam:
+  skills:
+    - "Edge Computing"
+    - "Innovating technologies"
+    - "Breaking down tasks into smaller fragments"
+  languages/paradigms:
+    # Specify ['what', level], level 1-10 (1 being justed learned, 10 you can give a talk about it)
+    - [Python, 6]
+    - [Javascript, 3]
+  frameworks/libraries/concepts:
+    # list in order of most recent
+    - [Django, 3]
+    - [NumPy, 4]
+    - [Angular, 3]
+# seek a mentor
+sam:
+  skills:
+    - "Learn Go Lang"
+    - "No deep expertise in Ruby"
+    - "Integrating Business requirements to assigned tasks"
+    - "Dive deep into working of bare metal"
+    - "can move too fast without all the info"
+  languages/paradigms:
+    - Go Lang
+    - Ruby
+  frameworks/libraries/concepts:
+    - Kafka
+    - NodeJS
+    - Hadoop
+# Personal Development plan, created when you join or during your career discussion
